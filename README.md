@@ -1,4 +1,4 @@
-# HTB-Sherlock-PhshNet
+# HTB-Sherlock-PhishNet
 # Phishing_Email_Analysis_&_Incident_Response
 
 **CTF Platform:** Hack The Box Sherlock — PhishNet  
