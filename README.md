@@ -1,7 +1,5 @@
 # HTB-Sherlock-Telly
-# Forensic-Investigation:CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability-Exploitation
-
-## Case Study: HTB Sherlock: Telly
+# Forensic Investigation: CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability-Exploitation, Persistense, Data Exfiltration
 
 ## 📌 Overview
 This repository contains a technical investigation of a security incident involving **CVE-2026-24061**, a critical authentication bypass vulnerability in `GNU InetUtils telnetd`. This analysis was conducted using a PCAP file from the **Hack The Box (HTB) Sherlock: Telly** challenge, focusing on the exploit mechanism and post-exploitation activities.
